@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 typedef struct IntVector{
-
     int* data;
     size_t capacity;
     size_t size;
